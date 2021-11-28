@@ -1,0 +1,124 @@
+body {
+    font-family: system-ui, "apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+
+}
+
+* {
+    box-sizing: border-box;
+    /* border: 1px solid red !important; */
+
+}
+
+/* .navbar-nav{
+    color: white !important;
+} */
+/* .navbar-nav.nav-item.link.active {
+    font-weight: 600;
+    color: #fff;
+} */
+.btn-bd-download {
+    font-weight: 600;
+    color: #ffe484;
+   
+}
+.btn-outline-success {
+    color: #ffe484;
+    border-color: #ffe484;
+}
+.head-act{
+margin-right: 62px;
+}
+.nav-link a{
+    color: white;
+}
+.main-navbar {
+    background-color: rgb(121, 82, 179);
+   
+}
+.navbar-light .navbar-toggler {
+    color: white !important;
+    /* border-color: rgba(0,0,0,.1); */
+}
+.btn1 {
+    background-color: #7952b3;
+    margin-top: 11px;
+}
+
+.btn2 {
+    margin-left: 1px;
+    margin-top: 12px;
+
+}
+
+.bg-ligh-hh img {
+    width: 100%;
+
+}
+
+.image-color-bg-light {
+    max-width: 330px;
+    border-radius: 4px;
+    margin-top: 60px;
+    border-radius: 4px;
+    justify-content: center;
+
+}
+
+.column p {
+    margin: 0;
+}
+.icon-set{
+     margin-top: 17px;
+}
+.spacee{
+    margin-top: 16px;
+}
+.boot-icons img{
+    margin-top: -65px;
+}
+.rw{
+    margin-top: 40px;
+}
+.head-act{
+    background-color: #7952b3 !important;
+   
+}
+.rw img{
+margin-top: -61px;
+}
+.mw{
+    margin-top: 80px;
+}
+.green {
+    width: 41px;
+    border-radius: 6px;
+}
+
+
+
+.ps-md-5 {
+    padding: left 3rem, impor !important;
+}
+.head-act{
+    background-color: blanchedalmond;
+}
+
+
+.mt-18 {
+    margin-top: 18px;
+}
+
+.name p {
+    padding-top: 12px;
+    padding-left: 26px;
+}
+
+.actlike-gh{
+    background: linear-gradient(165deg, #f7f5fb 50%, #fff 50%) 
+    no-repeat center;;
+  
+}
+
+.upper-space{
+    margin-top:79px
+}
