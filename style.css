@@ -21,6 +21,11 @@ body {
     color: #ffe484;
    
 }
+.color-a{
+ background-color: #7952b3 !important;
+ border-radius: 4px;
+ 
+}
 .btn-outline-success {
     color: #ffe484;
     border-color: #ffe484;
@@ -121,4 +126,11 @@ margin-top: -61px;
 
 .upper-space{
     margin-top:79px
+}
+.footer-hh a{
+color: black;
+text-decoration: none;
+}
+.color-34{
+    background-color: blue !important;
 }
